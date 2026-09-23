@@ -1,0 +1,647 @@
+Id,Codigo,Nome,UF
+1,1508,Adamantina,SP
+2,1510,Adolfo,SP
+3,1521,Aguaí,SP
+4,1545,Águas da Prata,SP
+5,1533,Águas de Lindóia,SP
+6,6075,Águas de Santa Bárbara,SP
+7,1557,Águas de São Pedro,SP
+8,1569,Agudos,SP
+9,7328,Alambari,SP
+10,1570,Alfredo Marcondes,SP
+11,1582,Altair,SP
+12,1594,Altinópolis,SP
+13,1600,Alto Alegre,SP
+14,7330,Alumínio,SP
+15,1612,Alvares Florence,SP
+16,1624,Alvares Machado,SP
+17,1636,Álvaro de Carvalho,SP
+18,1648,Alvinlândia,SP
+19,1650,Americana,SP
+20,1661,Américo Brasiliense,SP
+21,1673,Américo de Campos,SP
+22,1685,Amparo,SP
+23,1697,Analândia,SP
+24,1703,Andradina,SP
+25,1715,Angatuba,SP
+26,1727,Anhembi,SP
+27,1739,Anhumas,SP
+28,1740,Aparecida,SP
+29,1752,Aparecida D'Oeste,SP
+30,1764,Apiaí,SP
+31,7341,Araçariguama,SP
+32,1776,Araçatuba,SP
+33,1788,Araçoiaba da Serra,SP
+34,1790,Aramina,SP
+35,1806,Arandu,SP
+36,7353,Arapei,SP
+37,1818,Araraquara,SP
+38,1820,Araras,SP
+39,7754,Arco-Íris,SP
+40,1831,Arealva,SP
+41,1843,Areias,SP
+42,1855,Areiópolis,SP
+43,1867,Ariranha,SP
+44,1879,Artur Nogueira,SP
+45,1880,Arujá,SP
+46,7365,Aspásia,SP
+47,1892,Assis,SP
+48,1909,Atibaia,SP
+49,1910,Auriflama,SP
+50,1922,Avaí,SP
+51,1934,Avanhandava,SP
+52,1946,Avaré,SP
+53,1958,Bady Bassit,SP
+54,1960,Balbinos,SP
+55,1971,Bálsamo,SP
+56,1983,Bananal,SP
+57,1995,Barão de Antonina,SP
+58,2008,Barbosa,SP
+59,2010,Bariri,SP
+60,2021,Barra Bonita,SP
+61,7377,Barra do Chapéu,SP
+62,2033,Barra do Turvo,SP
+63,2045,Barretos,SP
+64,2057,Barrinha,SP
+65,2069,Barueri,SP
+66,2070,Bastos,SP
+67,2082,Batatais,SP
+68,2094,Bauru,SP
+69,2100,Bebedouro,SP
+70,2112,Bento de Abreu,SP
+71,2124,Bernardino de Campos,SP
+72,7389,Bertioga,SP
+73,2136,Bilac,SP
+74,2148,Birigui,SP
+75,2150,Biritiba-Mirim,SP
+76,2161,Boa Esperança do Sul,SP
+77,2173,Bocaina,SP
+78,2185,Bofete,SP
+79,2197,Boituva,SP
+80,2203,Bom Jesus dos Perdões,SP
+81,7390,Bom Sucesso de Itararé,SP
+82,2215,Borá,SP
+83,2227,Boracéia,SP
+84,2239,Borborema,SP
+85,7213,Borebi,SP
+86,2240,Botucatu,SP
+87,2252,Bragança Paulista,SP
+88,2264,Braúna,SP
+89,7766,Brejo Alegre,SP
+90,2276,Brodówski,SP
+91,2288,Brotas,SP
+92,2290,Buri,SP
+93,2306,Buritama,SP
+94,2318,Buritizal,SP
+95,2320,Cabrália Paulista,SP
+96,2331,Cabreúva,SP
+97,2343,Caçapava,SP
+98,2355,Cachoeira Paulista,SP
+99,2367,Caconde,SP
+100,2379,Cafelândia,SP
+101,2380,Caiabu,SP
+102,2392,Caieiras,SP
+103,2409,Caiuá,SP
+104,2410,Cajamar,SP
+105,7407,Cajati,SP
+106,2422,Cajobi,SP
+107,2434,Cajuru,SP
+109,7419,Campina do Monte Alegre,SP
+110,2446,Campinas,SP
+111,2458,Campo Limpo Paulista,SP
+112,2460,Campos do Jordão,SP
+113,2471,Campos Novos Paulista,SP
+114,2483,Cananéia,SP
+115,7778,Canas,SP
+116,2495,Cândido Mota,SP
+117,2501,Cândido Rodrigues,SP
+118,7420,Canitar,SP
+119,2513,Capão Bonito,SP
+120,2525,Capela do Alto,SP
+121,2537,Capivari,SP
+122,2549,Caraguatatuba,SP
+123,2550,Carapicuíba,SP
+124,2562,Cardoso,SP
+125,2574,Casa Branca,SP
+126,2586,Cássia dos Coqueiros,SP
+127,2598,Castilho,SP
+128,2604,Catandúva,SP
+129,2616,Catiguá,SP
+130,2628,Cedral,SP
+131,2630,Cerqueira César,SP
+132,2653,Cerquilho,SP
+133,2641,Cesário Lange,SP
+134,2665,Charqueada,SP
+135,7195,Chavantes,SP
+136,2677,Clementina,SP
+137,2689,Colina,SP
+138,2690,Colômbia,SP
+139,2707,Conchal,SP
+140,2719,Conchas,SP
+141,2720,Cordeirópolis,SP
+142,2732,Coroados,SP
+143,2744,Coronel Macedo,SP
+144,2756,Corumbataí,SP
+145,2768,Cosmópolis,SP
+146,2770,Cosmorama,SP
+147,2781,Cotia,SP
+148,2793,Cravinhos,SP
+149,2800,Cristais Paulista,SP
+150,2811,Cruzália,SP
+151,2823,Cruzeiro,SP
+152,2835,Cubatão,SP
+153,2847,Cunha,SP
+154,2859,Descalvado,SP
+155,2860,Diadema,SP
+156,7225,Dirce-Reis,SP
+157,2872,Divinolândia,SP
+158,2884,Dobrada,SP
+159,2896,Dois Córregos,SP
+160,2902,Dolcinópolis,SP
+161,2914,Dourado,SP
+162,2926,Dracena,SP
+163,2938,Duartina,SP
+164,2940,Dumont,SP
+165,2951,Echaporã,SP
+166,2963,Eldorado,SP
+167,2975,Elias Fausto,SP
+168,7432,Elisiário,SP
+169,7237,Embaúba,SP
+170,2987,Embu,SP
+171,2999,Embu-Guaçu,SP
+172,7444,Emilianópolis,SP
+173,7456,Engenheiro Coelho,SP
+174,5307,Espírito Santo do Pinhal,SP
+175,7249,Espírito Santo do Turvo,SP
+176,7468,Estiva Gerbi,SP
+177,3001,Estrela do Norte,SP
+178,3013,Estrela D'Oeste,SP
+179,7250,Euclides da Cunha Paulista,SP
+180,3025,Fartura,SP
+181,3037,Fernando Prestes,SP
+182,3049,Fernandópolis,SP
+183,7869,Fernão,SP
+184,3050,Ferraz de Vasconcelos,SP
+185,3062,Flora Rica,SP
+186,3074,Floreal,SP
+187,3086,Flórida Paulista,SP
+188,3098,Florínea,SP
+189,3104,Franca,SP
+190,3116,Francisco Morato,SP
+191,3128,Franco da Rocha,SP
+192,3130,Gabriel Monteiro,SP
+193,3141,Gália,SP
+194,3153,Garça,SP
+195,3165,Gastão Vidigal,SP
+196,7870,Gavião Peixoto,SP
+197,3177,General Salgado,SP
+198,3189,Getulina,SP
+199,3190,Glicério,SP
+200,3207,Guaiçara,SP
+201,3219,Guaimbé,SP
+202,3220,Guaíra,SP
+203,3232,Guapiaçu,SP
+204,3244,Guapiara,SP
+205,3256,Guará,SP
+206,3268,Guaraçaí,SP
+207,3270,Guaraci,SP
+208,3281,Guarani D'Oeste,SP
+209,3293,Guarantã,SP
+210,3300,Guararapes,SP
+211,3311,Guararema,SP
+212,3323,Guaratinguetá,SP
+213,3335,Guareí,SP
+214,3347,Guariba,SP
+216,3359,Guarujá,SP
+217,3360,Guarulhos,SP
+218,7262,Guatapará,SP
+219,3372,Guzolândia,SP
+220,3384,Herculândia,SP
+221,7470,Holambra,SP
+222,7481,Hortolândia,SP
+223,3396,Iacanga,SP
+224,3402,Iacri,SP
+225,7274,Iaras,SP
+226,3414,Ibaté,SP
+227,3426,Ibira,SP
+228,3438,Ibirarema,SP
+229,3440,Ibitinga,SP
+230,7285,IBITIUVA,SP
+231,3451,Ibiúna,SP
+232,3463,Icem,SP
+233,3475,Iepê,SP
+234,3487,Igaraçu do Tietê,SP
+235,3499,Igarapava,SP
+236,3505,Igaratá,SP
+237,3517,Iguape,SP
+238,7675,Ilha Comprida,SP
+239,7493,Ilha Solteira,SP
+240,3529,Ilhabela,SP
+241,3530,Indaiatuba,SP
+242,3542,Indiana,SP
+243,3554,Indiaporã,SP
+244,3566,Inúbia Paulista,SP
+245,3578,Ipaussú,SP
+246,3580,Iperó,SP
+247,3591,Ipeúna,SP
+248,7845,Ipiguá,SP
+249,3608,Iporanga,SP
+250,3610,Ipuá,SP
+251,3621,Iracemápolis,SP
+252,3633,Irapuã,SP
+253,3645,Irapuru,SP
+1002,3657,Itaberá,SP
+1003,3669,Itaí,SP
+1004,3670,Itajobi,SP
+1005,3682,Itajú,SP
+1006,3694,Itanhaém,SP
+1007,7500,Itaóca,SP
+1008,3700,Itapecerica da Serra,SP
+1009,3712,Itapetininga,SP
+1010,3724,Itapeva,SP
+1011,3736,Itapevi,SP
+1012,3748,Itapira,SP
+1013,7687,Itapirapuã Paulista,SP
+1014,3750,Itápolis,SP
+1015,3761,Itaporanga,SP
+1016,3773,Itapuí,SP
+1017,3785,Itapura,SP
+1018,3797,Itaquaquecetuba,SP
+1019,3803,Itararé,SP
+1020,3815,Itariri,SP
+1021,3827,Itatiba,SP
+1022,3839,Itatinga,SP
+1023,3840,Itirapina,SP
+1024,3852,Itirapuã,SP
+1025,3864,Itobi,SP
+1026,3876,Itu,SP
+1027,3888,Itupeva,SP
+1028,3890,Ituverava,SP
+1029,3906,Jaborandi,SP
+1030,3918,Jaboticabal,SP
+1031,3920,Jacareí,SP
+1032,3931,Jaci,SP
+1033,3943,Jacupiranga,SP
+1034,3955,Jaguariúna,SP
+1035,3967,Jales,SP
+1036,3979,Jambeiro,SP
+1037,3980,Jandira,SP
+1038,3992,Jardinópolis,SP
+1039,4005,Jarinu,SP
+1040,4017,Jaú,SP
+1041,4029,Jeriquara,SP
+1042,4030,Joanópolis,SP
+1043,4042,João Ramalho,SP
+1044,4054,José Bonifácio,SP
+1045,4066,Júlio Mesquita,SP
+1046,7882,Jumirim,SP
+1047,4078,Jundiaí,SP
+1048,4080,Junqueirópolis,SP
+1049,4091,Juquiá,SP
+1050,4108,Juquitiba,SP
+1051,4110,Lagoinha,SP
+1052,4121,Laranjal Paulista,SP
+1053,4133,Lavínia,SP
+1054,4145,Lavrinhas,SP
+1055,4157,Leme,SP
+1056,4169,Lençóis Paulista,SP
+1057,4170,Limeira,SP
+1058,4182,Lindóia,SP
+1059,4194,Lins,SP
+1060,4200,Lorena,SP
+1061,7699,Lourdes,SP
+1062,4212,Louveira,SP
+1063,4224,Lucélia,SP
+1064,4236,Lucianópolis,SP
+1065,4248,Luiz Antônio,SP
+1066,4250,Luiziania,SP
+1067,4261,Lupércio,SP
+1068,4273,Lutécia,SP
+1069,4285,Macatuba,SP
+1070,4297,Macaubal,SP
+1071,4303,Macedônia,SP
+1072,4315,Magda,SP
+1073,4327,Mairinque,SP
+1074,4339,Mairiporã,SP
+1075,4340,Manduri,SP
+1076,4352,Marabá Paulista,SP
+1077,4364,Maraçaí,SP
+1078,7511,Marapoama,SP
+1079,4376,Mariápolis,SP
+1080,4388,Marília,SP
+1081,4390,Marinópolis,SP
+1082,4406,Martinópolis,SP
+1083,4418,Matão,SP
+1084,4420,Mauá,SP
+1085,4431,Mendonça,SP
+1086,4443,Meridiano,SP
+1087,7705,Mesópolis,SP
+1088,4455,Miguelópolis,SP
+1089,4467,Mineiros do Tietê,SP
+1090,4479,Mira Estrela,SP
+1091,4480,Miracatu,SP
+1092,4492,Mirandópolis,SP
+1093,4509,Mirante do Paranapanema,SP
+1094,4510,Mirassol,SP
+1095,4522,Mirassolândia,SP
+1096,4534,Mocóca,SP
+1097,4546,Mogi das Cruzes,SP
+1098,4558,Mogi-Guaçu,SP
+1099,4560,Mogi-Mirim,SP
+1100,4571,Mombuca,SP
+1101,4583,Monções,SP
+1102,4595,Mongaguá,SP
+1103,4601,Monte Alegre do Sul,SP
+1104,4613,Monte Alto,SP
+1105,4625,Monte Aprazível,SP
+1106,4637,Monte Azul Paulista,SP
+1107,4649,Monte Castelo,SP
+1108,4650,Monte Mór,SP
+1109,4662,Monteiro Lobato,SP
+1110,4674,Morro Agudo,SP
+1111,4686,Morungaba,SP
+1112,7298,Motuca,SP
+1113,4698,Murutinga do Sul,SP
+1114,7894,Nantes,SP
+1115,4704,Narandiba,SP
+1116,4716,Natividade da Serra,SP
+1117,4728,Nazaré Paulista,SP
+1118,4730,Neves Paulista,SP
+1119,4741,Nhandeara,SP
+1120,4753,Nipoã,SP
+1121,4765,Nova Aliança,SP
+1122,7717,Nova Campina,SP
+1123,7523,Nova Canaã Paulista,SP
+1124,7900,Nova Castilho,SP
+1125,4777,Nova Europa,SP
+1126,4789,Nova Granada,SP
+1127,4790,Nova Guataporanga,SP
+1128,4807,Nova Independência,SP
+1129,4819,Nova Luzitânia,SP
+1132,4820,Nova Odessa,SP
+1133,7535,Novais,SP
+1134,4832,Novo Horizonte,SP
+1135,4844,Nuporanga,SP
+1136,4856,Ocauçu,SP
+1137,4868,Óleo,SP
+1138,4870,Olímpia,SP
+1139,4881,Onda Verde,SP
+1140,4893,Oriente,SP
+1141,4900,Orindiúva,SP
+1142,4911,Orlândia,SP
+1143,4923,Osasco,SP
+1144,4935,Oscar Bressane,SP
+1145,4947,Osvaldo Cruz,SP
+1146,4959,Ourinhos,SP
+1147,4960,Ouro Verde,SP
+1148,7912,Ouroeste,SP
+1149,4972,Pacaembu,SP
+1150,4984,Palestina,SP
+1151,4996,Palmares Paulista,SP
+1152,5009,Palmeira D'Oeste,SP
+1153,5010,Palmital,SP
+1154,5022,Panorama,SP
+1155,5034,Paraguaçu Paulista,SP
+1156,5046,Paraibuna,SP
+1157,5058,Paraíso,SP
+1158,5060,Paranapanema,SP
+1159,5083,Paranapuã,SP
+1160,5095,Parapuã,SP
+1161,5071,Pardinho,SP
+1162,5101,Pariquera-Açu,SP
+1163,7547,Parisi,SP
+1164,5113,Patrocínio Paulista,SP
+1165,5125,Paulicéia,SP
+1166,5137,Paulínia,SP
+1167,7924,Paulistânia,SP
+1168,5149,Paulo de Faria,SP
+1169,5150,Pederneiras,SP
+1170,5162,Pedra Bela,SP
+1171,5174,Pedranópolis,SP
+1172,5186,Pedregulho,SP
+1173,5198,Pedreira,SP
+1174,7559,Pedrinhas Paulista,SP
+1175,5204,Pedro de Toledo,SP
+1176,5216,Penápolis,SP
+1177,5228,Pereira Barreto,SP
+1178,5230,Pereiras,SP
+1179,5241,Peruíbe,SP
+1180,5253,Piacatu,SP
+1181,5265,Piedade,SP
+1182,5277,Pilar do Sul,SP
+1183,5289,Pindamonhangaba,SP
+1184,5290,Pindorama,SP
+1185,5319,Pinhalzinho,SP
+1186,5320,Piquerobi,SP
+1187,5332,Piquete,SP
+1188,5344,Piracaia,SP
+1189,5356,Piracicaba,SP
+1190,5370,Piraju,SP
+1191,5381,Pirajuí,SP
+1192,5393,Pirangí,SP
+1193,5400,Pirapora do Bom Jesus,SP
+1194,5411,Pirapozinho,SP
+1195,5368,Pirassununga,SP
+1196,5423,Piratininga,SP
+1197,5435,Pitangueiras,SP
+1198,5447,Planalto,SP
+1199,5459,Platina,SP
+1200,5460,Poá,SP
+1201,5472,Poloni,SP
+1202,5484,Pompéia,SP
+1203,5496,Pongaí,SP
+1204,5502,Pontal,SP
+1205,7560,Pontalinda,SP
+1206,5514,Pontes Gestal,SP
+1207,5526,Populina,SP
+1208,5538,Porangaba,SP
+1209,5540,Porto Feliz,SP
+1210,5551,Porto Ferreira,SP
+1211,7572,Potim,SP
+1212,5563,Potirendaba,SP
+1213,7780,Pracinha,SP
+1214,5575,Pradópolis,SP
+1215,5587,Praia Grande,SP
+1216,7791,Pratânia,SP
+1217,5599,Presidente Alves,SP
+1218,5605,Presidente Bernardes,SP
+1219,5617,Presidente Epitácio,SP
+1220,5629,Presidente Prudente,SP
+1221,5630,Presidente Venceslau,SP
+1222,5642,Promissão,SP
+1223,7808,Quadra,SP
+1224,5654,Quatá,SP
+1225,5666,Queiroz,SP
+1226,5678,Queluz,SP
+1227,5680,Quintana,SP
+1228,5691,Rafard,SP
+1229,5708,Rancharia,SP
+1230,5710,Redenção da Serra,SP
+1231,5721,Regente Feijó,SP
+1232,5733,Reginópolis,SP
+1233,5745,Registro,SP
+1234,5757,Restinga,SP
+1235,5769,Ribeira,SP
+1236,5770,Ribeirão Bonito,SP
+1237,5782,Ribeirão Branco,SP
+1238,5794,Ribeirão Corrente,SP
+1239,5800,Ribeirão do Sul,SP
+1240,7936,Ribeirão dos Índios,SP
+1241,7584,Ribeirão Grande,SP
+1242,5812,Ribeirão Pires,SP
+1243,5824,Ribeirão Preto,SP
+1244,5848,Rifaina,SP
+1245,5850,Rincão,SP
+1247,5861,Rinópolis,SP
+1248,5873,Rio Claro,SP
+1249,5885,Rio das Pedras,SP
+1250,5897,Rio Grande da Serra,SP
+1251,5903,Riolândia,SP
+1252,5836,Riversul,SP
+1253,7304,Rosana,SP
+1254,5915,Roseira,SP
+1255,5927,Rubiácea,SP
+1256,5939,Rubinéia,SP
+1257,5940,Sabino,SP
+1258,5952,Sagres,SP
+1259,5964,Sales,SP
+1260,5976,Sales Oliveira,SP
+1261,5988,Salesópolis,SP
+1262,5990,Salmourão,SP
+1263,7596,Saltinho,SP
+1264,6002,Salto,SP
+1265,6026,Salto de Pirapora,SP
+1266,6014,Salto Grande,SP
+1267,6038,Sandovalina,SP
+1268,6040,Santa Adélia,SP
+1269,6051,Santa Albertina,SP
+1270,6063,Santa Bárbara D'Oeste,SP
+1271,6087,Santa Branca,SP
+1272,6099,Santa Clara D'Oeste,SP
+1273,6105,Santa Cruz da Conceição,SP
+1274,7810,Santa Cruz da Esperança,SP
+1275,6117,Santa Cruz das Palmeiras,SP
+1276,6129,Santa Cruz do Rio Pardo,SP
+1277,6130,Santa Ernestina,SP
+1278,6142,Santa Fé do Sul,SP
+1279,6154,Santa Gertrudes,SP
+1280,6166,Santa Isabel,SP
+1281,6178,Santa Lúcia,SP
+1282,6180,Santa Maria da Serra,SP
+1283,6191,Santa Mercedes,SP
+1284,6210,Santa Rita do Passa Quatro,SP
+1285,6208,Santa Rita D'Oeste,SP
+1286,6221,Santa Rosa do Vitérbo,SP
+1287,7821,Santa Salete,SP
+1288,6245,Santana da Ponte Pensa,SP
+1289,6233,Santana do Parnaíba,SP
+1290,6257,Santo Anastácio,SP
+1291,6269,Santo André,SP
+1292,6270,Santo Antônio da Alegria,SP
+1293,6300,Santo Antônio da Posse,SP
+1294,7602,Santo Antônio do Aracanguá,SP
+1295,6282,Santo Antônio do Jardim,SP
+1296,6294,Santo Antônio do Pinhal,SP
+1297,6312,Santo Expedito,SP
+1298,6324,Santópolis do Aguapeí,SP
+1299,6336,Santos,SP
+1300,6348,São Bento do Sapucaí,SP
+1301,6350,São Bernardo do Campo,SP
+1302,6361,São Caetano do Sul,SP
+1303,6373,São Carlos,SP
+1304,6385,São Francisco,SP
+1305,6397,São João da Boa Vista,SP
+1306,6403,São João das Duas Pontes,SP
+1307,7614,São João de Iracema,SP
+1308,6415,São João do Pau D'Alho,SP
+1309,6427,São Joaquim da Barra,SP
+1310,6440,São José da Bela Vista,SP
+1311,6439,São José do Barreiro,SP
+1312,6464,São José do Rio Pardo,SP
+1313,6476,São José do Rio Preto,SP
+1314,6452,São José dos Campos,SP
+1315,7729,São Lourenço da Serra,SP
+1316,6488,São Luiz do Paraitinga,SP
+1317,6490,São Manuel,SP
+1318,6506,São Miguel Arcanjo,SP
+1319,1004,São Paulo,SP
+1320,6518,São Pedro,SP
+1321,6520,São Pedro do Turvo,SP
+1322,6531,São Roque,SP
+1323,6543,São Sebastião,SP
+1324,6555,São Sebastião da Grama,SP
+1325,6567,São Simão,SP
+1326,6579,São Vicente,SP
+1327,6580,Sarapuí,SP
+1328,6592,Sarutaiá,SP
+1329,6609,Sebastianópolis do Sul,SP
+1330,6610,Serra Azul,SP
+1331,6622,Serra Negra,SP
+1332,6634,Serrana,SP
+1333,6646,Sertãozinho,SP
+1334,6658,Sete Barras,SP
+1335,6660,Severínia,SP
+1336,6671,Silveiras,SP
+1337,6683,Socorro,SP
+1338,6695,Sorocaba,SP
+1339,6701,Sud Menucci,SP
+1340,6713,Sumaré,SP
+1341,7626,Suzanápolis,SP
+1342,6725,Suzano,SP
+1343,6737,Tabapuã,SP
+1344,6749,Tabatinga,SP
+1345,6750,Taboão da Serra,SP
+1346,6762,Taciba,SP
+1347,6774,Taguaí,SP
+1348,6786,Taiaçu,SP
+1349,6798,Taiúva,SP
+1350,6804,Tambaú,SP
+1351,6816,Tanabi,SP
+1352,6828,Tapiraí,SP
+1353,6830,Tapiratiba,SP
+1354,7857,Taquaral,SP
+1355,6841,Taquaritinga,SP
+1356,6853,Taquarituba,SP
+1357,7638,Taquarivaí,SP
+1358,6865,Tarabaí,SP
+1359,7316,Tarumã,SP
+1360,6877,Tatui,SP
+1361,6889,Taubaté,SP
+1362,6890,Tejupa,SP
+1363,6907,Teodoro Sampaio,SP
+1366,6919,Terra Roxa,SP
+1367,6920,Tietê,SP
+1368,6932,Timburi,SP
+1371,7730,Torre de Pedra,SP
+1372,6944,Torrinha,SP
+1373,7948,Trabiju,SP
+1374,6956,Tremembé,SP
+1375,6968,Três Fronteiras,SP
+1376,7640,Tuiuti,SP
+1377,6970,Tupã,SP
+1378,6981,Tupi Paulista,SP
+1379,6993,Turiuba,SP
+1380,7006,Turmalina,SP
+1381,7651,Ubarana,SP
+1382,7018,Ubatuba,SP
+1383,7020,Ubirajara,SP
+1384,7031,Uchoa,SP
+1385,7043,União Paulista,SP
+1386,7055,Urânia,SP
+1387,7067,Uru,SP
+1388,7079,Urupês,SP
+1389,7092,Valentim Gentil,SP
+1390,7080,Valinhos,SP
+1391,7109,Valparaiso,SP
+1392,7663,Vargem,SP
+1393,7110,Vargem Grande do Sul,SP
+1394,7201,Vargem Grande Paulista,SP
+1395,7122,Várzea Paulista,SP
+1396,7134,Vera Cruz,SP
+1397,7146,Vinhedo,SP
+1398,7158,Viradouro,SP
+1399,7160,Vista Alegre do Alto,SP
+1400,7833,Vitória Brasil,SP
+1401,7171,Votorantim,SP
+1402,7183,Votuporanga,SP
+1403,7742,Zacarias,SP
