@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Repasse ICMS - São Paulo</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- CABEÇALHO -->
+    <header class="header">
+        <div class="header-content">
+            <h1>Repasse ICMS — São Paulo</h1>
+            <p>
+                Análise dos repasses de ICMS aos municípios do Estado de São Paulo
+            </p>
+        </div>
+    </header>
+
+
+    <!-- CONTEÚDO PRINCIPAL -->
+    <main class="container">
+
+
+        <!-- ===================================================== -->
+        <!-- PAINEL AUTOMÁTICO 2024 x 2025 -->
+        <!-- ===================================================== -->
+
+        <section class="dashboard-card painel-destaques">
+
+            <div class="section-title">
+                <h2>Repasse ICMS — 2024 × 2025</h2>
+
+                <p>
+                    Comparação automática entre municípios selecionados aleatoriamente.
+                </p>
+            </div>
+
+            <div class="comparison-grid">
+
+                <!-- MUNICÍPIO 1 -->
+                <div class="comparison-card">
+
+                    <h3 id="painel-municipio1">
+                        Município 1
+                    </h3>
+
+                    <div class="comparison-values">
+
+                        <div>
+                            <span>2024</span>
+
+                            <strong id="painel-2024-municipio1">
+                                R$ 0,00
+                            </strong>
+                        </div>
+
+                        <div>
+                            <span>2025</span>
+
+                            <strong id="painel-2025-municipio1">
+                                R$ 0,00
+                            </strong>
+                        </div>
+
+                        <div>
+                            <span>Crescimento</span>
+
+                            <strong id="painel-crescimento-municipio1">
+                                0,00%
+                            </strong>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- MUNICÍPIO 2 -->
+                <div class="comparison-card">
+
+                    <h3 id="painel-municipio2">
+                        Município 2
+                    </h3>
+
+                    <div class="comparison-values">
+
+                        <div>
+                            <span>2024</span>
+
+                            <strong id="painel-2024-municipio2">
+                                R$ 0,00
+                            </strong>
+                        </div>
+
+                        <div>
+                            <span>2025</span>
+
+                            <strong id="painel-2025-municipio2">
+                                R$ 0,00
+                            </strong>
+                        </div>
+
+                        <div>
+                            <span>Crescimento</span>
+
+                            <strong id="painel-crescimento-municipio2">
+                                0,00%
+                            </strong>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="painel-atualizacao">
+                <span>
+                    Atualização automática a cada 8 segundos
+                </span>
+            </div>
+
+        </section>
+
+
+
+        <!-- ===================================================== -->
+        <!-- GRÁFICO 1 -->
+        <!-- ===================================================== -->
+
+        <section class="dashboard-card">
+
+            <div class="section-title">
+
+                <h2>
+                    Evolução mensal do Repasse ICMS
+                </h2>
+
+                <p>
+                    Comparação mensal entre três municípios selecionados.
+                </p>
+
+            </div>
+
+
+            <div class="filters">
+
+                <!-- MUNICÍPIO 1 -->
+                <div class="filter">
+
+                    <label for="grafico1-municipio1">
+                        Município 1
+                    </label>
+
+                    <select id="grafico1-municipio1">
+                    </select>
+
+                </div>
+
+
+                <!-- MUNICÍPIO 2 -->
+                <div class="filter">
+
+                    <label for="grafico1-municipio2">
+                        Município 2
+                    </label>
+
+                    <select id="grafico1-municipio2">
+                    </select>
+
+                </div>
+
+
+                <!-- MUNICÍPIO 3 -->
+                <div class="filter">
+
+                    <label for="grafico1-municipio3">
+                        Município 3
+                    </label>
+
+                    <select id="grafico1-municipio3">
+                    </select>
+
+                </div>
+
+
+                <!-- ANO -->
+                <div class="filter">
+
+                    <label for="grafico1-ano">
+                        Ano
+                    </label>
+
+                    <select id="grafico1-ano">
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <div class="chart-container">
+
+                <canvas id="grafico1"></canvas>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- ===================================================== -->
+        <!-- GRÁFICO 2 -->
+        <!-- ===================================================== -->
+
+        <section class="dashboard-card">
+
+            <div class="section-title">
+
+                <h2>
+                    Top 8 municípios por Repasse ICMS
+                </h2>
+
+                <p>
+                    Municípios com os maiores valores acumulados no ano selecionado.
+                </p>
+
+            </div>
+
+
+            <div class="filters">
+
+                <!-- ANO -->
+                <div class="filter">
+
+                    <label for="grafico2-ano">
+                        Ano
+                    </label>
+
+                    <select id="grafico2-ano">
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <div class="chart-ranking">
+
+                <canvas id="grafico2"></canvas>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- ===================================================== -->
+        <!-- GRÁFICO 3 -->
+        <!-- ===================================================== -->
+
+        <section class="dashboard-card">
+
+            <div class="section-title">
+
+                <h2>
+                    Evolução semanal do Repasse ICMS
+                </h2>
+
+                <p>
+                    Comparação dos repasses semanais entre dois municípios.
+                </p>
+
+            </div>
+
+
+            <div class="filters">
+
+                <!-- MUNICÍPIO 1 -->
+                <div class="filter">
+
+                    <label for="grafico3-municipio1">
+                        Município 1
+                    </label>
+
+                    <select id="grafico3-municipio1">
+                    </select>
+
+                </div>
+
+
+                <!-- MUNICÍPIO 2 -->
+                <div class="filter">
+
+                    <label for="grafico3-municipio2">
+                        Município 2
+                    </label>
+
+                    <select id="grafico3-municipio2">
+                    </select>
+
+                </div>
+
+
+                <!-- ANO -->
+                <div class="filter">
+
+                    <label for="grafico3-ano">
+                        Ano
+                    </label>
+
+                    <select id="grafico3-ano">
+                    </select>
+
+                </div>
+
+
+                <!-- MÊS -->
+                <div class="filter">
+
+                    <label for="grafico3-mes">
+                        Mês
+                    </label>
+
+                    <select id="grafico3-mes">
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <div class="chart-container">
+
+                <canvas id="grafico3"></canvas>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- ===================================================== -->
+        <!-- GRÁFICO 4 -->
+        <!-- ===================================================== -->
+
+        <section class="dashboard-card">
+
+            <div class="section-title">
+
+                <h2>
+                    Evolução anual do Repasse ICMS
+                </h2>
+
+                <p>
+                    Comparação da evolução anual entre dois municípios.
+                </p>
+
+            </div>
+
+
+            <div class="filters">
+
+                <!-- MUNICÍPIO 1 -->
+                <div class="filter">
+
+                    <label for="grafico4-municipio1">
+                        Município 1
+                    </label>
+
+                    <select id="grafico4-municipio1">
+                    </select>
+
+                </div>
+
+
+                <!-- MUNICÍPIO 2 -->
+                <div class="filter">
+
+                    <label for="grafico4-municipio2">
+                        Município 2
+                    </label>
+
+                    <select id="grafico4-municipio2">
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <div class="chart-container">
+
+                <canvas id="grafico4"></canvas>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+
+    <!-- ===================================================== -->
+    <!-- RODAPÉ -->
+    <!-- ===================================================== -->
+
+    <footer class="footer">
+
+        <p>
+            Dados de Repasse ICMS — Secretaria da Fazenda e Planejamento do Estado de São Paulo
+        </p>
+
+    </footer>
+
+
+
+    <!-- ===================================================== -->
+    <!-- BIBLIOTECA CHART.JS -->
+    <!-- ===================================================== -->
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- JAVASCRIPT DO DASHBOARD -->
+
+    <script src="script.js"></script>
+
+</body>
+</html>
