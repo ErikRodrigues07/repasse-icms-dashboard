@@ -238,6 +238,7 @@ body {
 
 }
 
+/* ========================= DOWNLOADS ========================= */ .downloads { background-color: white; border-radius: 8px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); text-align: center; } .downloads h2 { color: #1f4e79; margin-bottom: 10px; font-size: 21px; } .downloads p { color: #6b7280; font-size: 14px; margin-bottom: 20px; } .downloads-botoes { display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; } .download-btn { display: inline-block; background-color: #1f4e79; color: white; text-decoration: none; padding: 11px 20px; border-radius: 5px; font-size: 14px; font-weight: bold; transition: background-color 0.2s ease; } .download-btn:hover { background-color: #163a5c; }
 
 @media (max-width: 600px) {
 
